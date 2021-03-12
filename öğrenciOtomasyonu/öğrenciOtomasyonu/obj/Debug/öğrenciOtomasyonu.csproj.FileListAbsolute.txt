@@ -1,0 +1,9 @@
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\bin\Debug\öğrenciOtomasyonu.exe
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\bin\Debug\öğrenciOtomasyonu.pdb
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.Form1.resources
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.Properties.Resources.resources
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.exe
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\obj\Debug\öğrenciOtomasyonu.pdb
+C:\Users\demir\onedrive\belgeler\visual studio 2017\Projects\öğrenciOtomasyonu\öğrenciOtomasyonu\bin\Debug\öğrenciOtomasyonu.exe.config
